@@ -1,0 +1,197 @@
+.home-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1512px;
+  height: 2047px;
+  position: relative;
+}
+
+.home-page .overlap-group {
+  position: absolute;
+  width: 1517px;
+  height: 982px;
+  top: 1002px;
+  left: 0;
+  background-color: #f4f1e9;
+}
+
+.home-page .footer {
+  position: absolute;
+  width: 1262px;
+  height: 817px;
+  top: 96px;
+  left: 133px;
+  background-color: #f4f1e9;
+}
+
+.home-page .text-wrapper {
+  position: absolute;
+  width: 140px;
+  top: 912px;
+  left: 1362px;
+  font-family: "Nothing You Could Do", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .image {
+  position: absolute;
+  width: 1460px;
+  height: 538px;
+  top: 333px;
+  left: 26px;
+}
+
+.home-page .text-wrapper-2 {
+  position: absolute;
+  width: 596px;
+  top: 71px;
+  left: 458px;
+  font-family: "Nothing You Could Do", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-3 {
+  position: absolute;
+  width: 83px;
+  top: 2002px;
+  left: 50px;
+  font-family: "Nothing You Could Do", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .navbar {
+  position: absolute;
+  width: 882px;
+  height: 74px;
+  top: 208px;
+  left: 370px;
+}
+
+.home-page .text-wrapper-4 {
+  left: 0;
+  position: absolute;
+  width: 137px;
+  top: 0;
+  font-family: "Nothing You Could Do", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-5 {
+  left: 422px;
+  position: absolute;
+  width: 137px;
+  top: 0;
+  font-family: "Nothing You Could Do", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-6 {
+  left: 202px;
+  position: absolute;
+  width: 137px;
+  top: 0;
+  font-family: "Nothing You Could Do", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-7 {
+  position: absolute;
+  width: 174px;
+  top: 0;
+  left: 642px;
+  font-family: "Nothing You Could Do", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .img {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 15px;
+
+  object-fit: cover;
+}
+
+.home-page .socials {
+  position: absolute;
+  width: 155px;
+  height: 28px;
+  top: 27px;
+}
+
+.home-page .youtube {
+  position: absolute;
+  width: 35px;
+  height: 28px;
+  top: 0;
+  left: 120px;
+}
+
+.home-page .twitter {
+  position: absolute;
+  width: 30px;
+  height: 28px;
+  top: 0;
+  left: 81px;
+}
+
+.home-page .spotify {
+  position: absolute;
+  width: 36px;
+  height: 28px;
+  top: 0;
+  left: 38px;
+}
+
+.home-page .instagram {
+  position: absolute;
+  width: 38px;
+  height: 28px;
+  top: 0;
+  left: 0;
+}
+
+.home-page .youtube-and-vimeo {
+  position: absolute;
+  width: 710px;
+  height: 439px;
+  top: 1331px;
+  left: -2723px;
+}
